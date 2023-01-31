@@ -4,8 +4,8 @@
             "path": "force-app",
             "default": true,
             "package": "AWS S3 Media Utilities",
-            "versionName": "Version 1.0.0.0",
-            "versionNumber": "1.0.0.0",
+            "versionName": "Version 1.0.1.0",
+            "versionNumber": "1.0.1.0",
             "unpackagedMetadata": {
                 "path": "force-development-unpackaged"
             }

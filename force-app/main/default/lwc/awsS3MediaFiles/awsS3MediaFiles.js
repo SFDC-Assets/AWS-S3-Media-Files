@@ -11,7 +11,7 @@ import { LightningElement, api, track } from 'lwc';
 import { ShowToastEvent } from 'lightning/platformShowToastEvent';
 import { loadScript } from 'lightning/platformResourceLoader';
 import { humanReadableSize, getIconName, exif2dec, isAudioFile, isVideoFile, isImageFile } from 'c/awsS3MediaUtilities';
-import AWS_S3_SDK from '@salesforce/resourceUrl/AWS_S3_SDK';
+import AWS_S3_SDK from '@salesforce/resourceUrl/AWS_S3_Media_Files_SDK';
 
 const MAX_FILE_NAME_LENGTH = 1024;
 const UNCONFIGURED_PREFIX = 'Change_this_prefix';
